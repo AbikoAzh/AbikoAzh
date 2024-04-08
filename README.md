@@ -1,5 +1,6 @@
-##                        Software and Android Developer, 3D and Motion 
-##                             Graphics Designer, Data Analyst
+<p align="center">
+Software and Android Developer, 3D and Motion Graphics Designer, Data Analyst    
+</p>
 
 ![download](https://github.com/AbikoAzh/AbikoAzh/assets/165510364/da04e799-a686-442a-8768-c4725f3115b8)
 
