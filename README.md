@@ -45,10 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbikoAzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Badges
 
@@ -60,9 +56,7 @@
 [![Generic badge](https://img.shields.io/badge/Java_Version-Java_1.8-<yellow>.svg)](https://shields.io/)
 
 
-This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
-
-[GitHub Pages](https://pages.github.com/).
+All my open source projects was on [GitHub Pages](https://github.com/AbikoAzh?tab=repositories).
 
 ## Contributing
 
