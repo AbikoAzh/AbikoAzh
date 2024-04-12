@@ -4,12 +4,29 @@
 ![download](https://github.com/AbikoAzh/AbikoAzh/assets/165510364/da04e799-a686-442a-8768-c4725f3115b8)
 
 - Hi There 👋, I’m Abubaker Azhari - @AbikoAzh
-- 👀 I’m interested in Data Science and Analysis, Software and Android Development, 3D Design and Motion Graphics 
-- 🌱 I’m currently learning Python ans R For Data Science
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me on https://twitter.com/abikoazh
-- 😄 Pronouns: He/Him
+  
+- 👀 I’m interested in Data Science and Analysis, Software and Android Development, 3D Design and Motion Graphics
+  
+- 🌱 I’m currently learning Python and R For Data Science and Analysis
+  
+- 💞️ I’m looking to collaborate on Data Science & Analysis and Software & Android Development.
+
 - 💬 Ask me about Desktop Apps (JavaFX) and Android Apps.
+  
+- 📫 How to reach me on
+<div align="center">
+  <a href="mailto:abikoazh@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/abikoazh">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=github&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.behance.net/AbikoAzh">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
+  </a> 
+</div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -20,9 +37,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL"  alt="PostgresSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLITE" **alt="SQLITE" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" **alt="After Effects" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="80" height="80"/>
+  <img src="https://github.com/AbikoAzh/AbikoAzh/assets/165510364/f00740fb-675d-4dc5-9ccf-5d13033b40b3" title="Cinema 4D" **alt="Cinema 4D" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" **alt="After Effects" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" **alt="Photoshop" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
@@ -41,21 +59,12 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbikoAzh&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbikoAzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-## Badges
-
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
-
-[![Generic badge](https://img.shields.io/badge/Java_Version-Java_1.8-<yellow>.svg)](https://shields.io/)
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbikoAzh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 All my open source projects was on [GitHub Pages](https://github.com/AbikoAzh?tab=repositories).
 
@@ -66,30 +75,35 @@ to discuss what you would like to change.
 
 ## 🙋‍♂️ Connect with me 
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/AbikoAzh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+    <a href="https://t.me/abikoazh">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=github&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/@abikoazh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/AbikoAzh">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
+  <a href="https://www.behance.net/AbikoAzh">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
+  </a> 
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt="" />
+</div>
+<div align="center">
+  
+    سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt=""/>
-
-
-
-
-                                               سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
----
-
-                                        👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+------
+<div align="center">
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+</div>
 
 
 <!---
