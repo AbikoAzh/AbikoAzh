@@ -59,7 +59,13 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbikoAzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width:20%; margin: auto; align="center">
+
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=AbikoAzh&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)                         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbikoAzh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=AbikoAzh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -96,7 +102,6 @@ If you have questions, or you have a project I'm available for freelancing and a
 <img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt="" />
 </div>
 <div align="center">
-  
     سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 </div>
 
