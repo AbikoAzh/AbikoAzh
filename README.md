@@ -77,11 +77,16 @@ If you have questions, or you have a project I'm available for freelancing and a
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt=""/>
 
-                                             سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
+
+
+
+                                               سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 ---
-                                      👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+
+                                        👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 
 
 <!---
