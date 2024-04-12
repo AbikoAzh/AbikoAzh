@@ -1,6 +1,5 @@
-<p align="center">
-Software and Android Developer, 3D and Motion Graphics Designer, Data Analyst    
-</p>
+## Software and Android Developer, 3D and Motion Graphics Designer, Data Analyst 
+<p align="center", font-size:30px>👇🏻</p>
 
 ![download](https://github.com/AbikoAzh/AbikoAzh/assets/165510364/da04e799-a686-442a-8768-c4725f3115b8)
 
@@ -10,15 +9,7 @@ Software and Android Developer, 3D and Motion Graphics Designer, Data Analyst
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me on https://twitter.com/abikoazh
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--
--
-- 
- 
-<!---
-AbikoAzh/AbikoAzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💬 Ask me about Desktop Apps (JavaFX) and Android Apps.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -88,9 +79,12 @@ If you have questions, or you have a project I'm available for freelancing and a
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt=""/>
 
-
-                                             سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ      
---------------------------------------
+                                             سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
+---
                                       👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 
 
+<!---
+AbikoAzh/AbikoAzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
