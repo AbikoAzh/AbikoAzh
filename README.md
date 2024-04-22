@@ -12,19 +12,6 @@
 - 💞️ I’m looking to collaborate on Data Science & Analysis and Software & Android Development.
 
 - 💬 Ask me about Desktop Apps (JavaFX) and Android Apps.
-  
-- 📫 How to reach me on
-<div align="center">
-  <a href="mailto:abikoazh@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/abikoazh">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=github&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.behance.net/AbikoAzh">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
-  </a> 
-</div>
 
 ---
 
@@ -83,21 +70,22 @@ to discuss what you would like to change.
 ## 🙋‍♂️ Connect with me 
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/AbikoAzh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.behance.net/AbikoAzh">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
   </a>
-    <a href="https://t.me/abikoazh">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=github&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  <a href="mailto:abikoazh@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/@abikoazh">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/AbikoAzh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+  <a href="https://t.me/abikoazh">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=github&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.behance.net/AbikoAzh">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
-  </a> 
+  
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AbikoAzh&style=flat-square&color=blue" alt="" />
